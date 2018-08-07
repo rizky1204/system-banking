@@ -5,7 +5,7 @@
 - Withdraw Money
 - Transactions History
 
-# Built With
+# Framework
 - [Java 8] (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Maven] (https://maven.apache.org/)
 - [Project Lombok] (https://projectlombok.org/)
