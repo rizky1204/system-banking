@@ -15,7 +15,7 @@
 
 # How to run application
 - Install Maven (https://maven.apache.org/install.html)
-- Install PostgreSQL (https://www.mysql.com/)
+- Install Mysql (https://www.mysql.com/)
 - Create User in Mysql with credentials: bank/bank123@ (as defined in application.properties)
 - Create Database in Mysql named: bank (as defined in application.properties)
 - start the program with command : mvn clean spring-boot:run
